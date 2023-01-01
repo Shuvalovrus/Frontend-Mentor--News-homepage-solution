@@ -27,14 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/59483799/210164031-1073a396-3b7f-4661-a950-4b7bcc98828c.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [https://github.com/Shuvalovrus/Frontend-Mentor--News-homepage-solution)
+- Live Site URL: [https://shuvalovrus.github.io/Frontend-Mentor--News-homepage-solution/)
 
 ### Built with
 
@@ -72,6 +70,4 @@ Adaptive layout - [Resource 1](https://kokoc.com/blog/chto-takoe-adaptivnaya-vyo
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/@shuvalovrus)
-
-
+- Frontend Mentor - [@shuvalovrus](https://www.frontendmentor.io/profile/shuvalovrus)
